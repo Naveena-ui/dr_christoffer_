@@ -1,0 +1,196 @@
+*{margin:0; padding:0;position:relative; font-family: 'Roboto', sans-serif;}
+a { text-decoration: none; }
+li{list-style:none;}
+.gridwrapper{max-width:1200px;margin: 0px auto;}
+
+
+	.logo {
+	margin-top: 30px;
+	width: 150px;
+	float: left;
+	display: inline-block;
+}
+	
+.fa{color:blue;}
+.fa-home{color:black;}
+.headercontacts {
+	float: right;
+	font-size: 16px;
+	margin-top: 10px;
+	width: 550px;
+	font-weight:bold;
+}
+
+.number {
+	padding: 10px 12px 1px 20px;
+	display: inline-block;
+}
+.location {
+	padding: 15px 12px 8px 20px;
+	display: inline-block;
+}
+.appointment{
+	padding: 15px 12px 8px 20px;
+	display: inline-block;}
+.menu1 li{ color:black;}
+.menu1{float:right;}
+.menu li {display:inline-block;width:90px;color:black; margin-top:0px;}
+nav{padding: 40px 0 0 0;}
+.menu > li {display: inline-block;}
+.menu a:hover{border-bottom:#194077;}
+nav {
+	padding: 40px 0 0 0;
+}
+.headercontacts-1 {
+	float: right;
+}
+.menu a{color:black;}
+.navbar {
+	margin: 34px -15px 0 0px;
+}
+.banner{background: url("../images/subbanner.jpg") no-repeat 0px 0px;
+height:590px;background-size:cover;clear:both; top:20px;}
+.doctorp .board{font-size:30px;}
+.doctor h2 {
+	font-size: 50px;
+	color: #50657d;
+
+}
+.spandr{color:#868aeb;font-size:25px;}
+.drimg{display:inline-block;width:610px; float:left;}
+.bannerdetails{display:inline-block;width:580px;vertical-align:top; line-height:1.6;margin: 100px 0 0 0;}
+span.md{font-weight:bold;}
+.view {
+	padding: 5px 0px 5px 5px;
+	background: #03b9d8;
+	margin: 46px 16px 0px 1089px;
+	
+}
+.view a{color:white;}
+.logo1 {display:inline-block; width:250px;margin-top:30px;}
+
+.logos {
+	display: inline-block;
+	width: 100px;
+	padding: 15px 0 0 33px;
+	border-left: 1px solid;
+	margin: 57px 0 0 0;
+}
+.section1{background:#154482;}
+.sec2{background: url(../images/testbg.jpg)no-repeat;background-size:cover;background-attachment:fixed;}
+.sec2 .col1{display: inline-block;vertical-align: top;width:600px;margin: 40px 0;}
+.sec2 .col2{display: inline-block;vertical-align: top;width:500px;margin: 40px 0;}
+
+.col1 ul li{display:block;width:500px;}
+.col1 ul li a{width:500px;height:30px;color:#aaddff;font-size:20px;display: block;padding: 15px 62px;}
+.col1 ul li a.item1{background: url(../images/list-bg.png)no-repeat 18px 18px;}
+.col2 .image-vedio img{height:240px;padding:4px 0 0 45px;}
+.col2 p{color:white;font-size: 20px;text-align: center;}
+.col2 p span{color:#f8b606;font-size: 14px;}
+h1 {
+	font-size: 40px;
+	color: #034eac;
+	text-align: center;
+	margin: 67px 0 54px 0;
+	
+}
+
+.section3 .col11 {
+	display: inline-block;
+	width: 280px;
+	vertical-align: top;
+	text-align: center;
+	height: 450px;
+    color:white;
+    background-color:#0748af;
+}
+.col11 li{text-align: left;}
+.col11 h2{text-align: center;
+font-size: 30px;
+color: #fff;
+font-weight: 500;
+padding: 20px 0 20px;}
+.col11 a{padding:10px 20px;border-radius: 25px 0 0px 0;background-color:#03b9d8; margin-top: 30px; color:white; text-align:center;}
+.col11 img{height:200px; width:280px; margin-top:-15px;}
+.order{min-height:140px;}
+.section3 .col11 li{background: url(../images/icon.png) no-repeat 25px 15px;padding: 10px 0 0 50px;
+color: white;}
+
+.banner3{background: url(../images/affiliation-bg.jpg) no-repeat; background-size:cover;margin-top:40px;text-align:center; color:#fff;}
+.Team{padding:30px;}
+.Affiliations1{display:inline-block;width:200px;padding:40px;} 
+.Affiliations1 p{padding-top:30px;font-size:20px:font-weight:lighter;}
+.Testimonials{background:black; color:#fff; font-size:20px; text-align:center; line-height:1.5; padding:20px;}
+.Patient h2{font-weight:lighter;}
+.Testimonials p{padding:20px;font-weight:lighter;}
+
+
+.banner4{background: url(../images/surgery-bg.jpg) no-repeat; background-size:cover;}
+.surgery{display:inline-block;width:550px; height:100%;margin:100px 0 0px 550px;padding:20px 0 20px 0; }
+.surgery .new1{ font-size:40px;font-weight:400;}
+.surgery .new2{color:#217ceb; font-size:50px;font-weight:400;margin-top:10px;padding:0px 0 20px 0;}
+.surgery .new3{ line-height:1.5; min-height:180px;}
+.surgery .new4{ font-size:20px; border:1px solid black;padding:5px;color:black;margin-bottom:30px;}
+
+
+
+.banner5{background: url(../images/resourcebg-l.jpg) no-repeat; background-size:cover; height:100%;width:100%; text-align:center;color:white;}
+.Resources{font-size:40px; font-weight:lighter;padding:20px 0 30px 0;}
+
+
+.alldiv{padding:20px 10px 50px 10px;font-size:20px;font-weight:lighter;}
+.background1{background:#217ceb;height:180px;width:170px; border:10px solid #3e89eb; display:inline-block; margin:0 0px 0 40px; vertical-align:middle;color:white;}
+.background2{background:#217ceb;height:180px;width:170px; border:10px solid #3e89eb;display:inline-block; margin:0 0px 0 40px; vertical-align:middle;color:white;}
+.background3{background:#217ceb;height:180px;width:170px; border:10px solid #3e89eb;display:inline-block;margin:0 0px 0 40px; vertical-align:middle;color:white;}
+.background4{background:#217ceb;height:180px;width:170px; border:10px solid #3e89eb;display:inline-block; margin:0 0px 0 40px; vertical-align:middle;color:white;}
+.images1{background: url(../images/resources.png) no-repeat 70px 40px; }
+.images2{background: url(../images/resources.png) no-repeat -180px 40px; }
+.images3{background: url(../images/resources.png) no-repeat -430px 40px; }
+.images4{background: url(../images/resources.png) no-repeat -680px 40px; }
+.background1 .images1 p{padding:100px 10px 10px 10px;}
+.background2 .images2 p{padding:100px 20px 10px 20px;}
+.background3 .images3 p{padding:100px 10px 10px 10px;}
+.background4 .images4 p{padding:100px 10px 10px 10px;}
+
+.images1:hover{background: url(../images/resources.png) no-repeat 70px -210px; }
+.images2:hover{background: url(../images/resources.png) no-repeat -180px -210px; }
+.images3:hover{background: url(../images/resources.png) no-repeat -430px -210px; }
+.images4:hover{background: url(../images/resources.png) no-repeat -680px -210px; }
+
+.background1:hover{background:#fff;height:180px;width:170px; border:10px solid #3e89eb; display:inline-block; margin:0 0px 0 40px; vertical-align:middle;color:black;}
+.background2:hover{background:#fff;height:180px;width:170px; border:10px solid #3e89eb;display:inline-block; margin:0 0px 0 40px; vertical-align:middle;color:black;}
+.background3:hover{background:#fff;height:180px;width:170px; border:10px solid #3e89eb;display:inline-block;margin:0 0px 0 40px; vertical-align:middle;color:black;}
+.background4:hover{background:#fff;height:180px;width:170px; border:10px solid #3e89eb;display:inline-block; margin:0 0px 0 40px; vertical-align:middle;color:black;}
+
+
+.foot {
+	background: #0a44b3;
+	margin: 10px 0 10px 0;
+	height: 230px;
+	padding: 15px 0 0px 0;
+	text-align:center;
+		font-size: 20px;
+		font-weight:lighter;
+}
+.foot .gridwrapper .menulast li{display:inline-block; color:white;	padding: 0px 5px 0px 5px;}
+.foot .gridwrapper .menulast a{color:white;}
+.footerlogo{padding:10px 0 20px 0; }
+
+.footer {
+	color: white;
+	padding: 0px 0 10px 0;
+}
+.menulast{padding:10px 0 10px 0; }
+.menufollow li{display:inline-block;}
+.menufollow {
+	font-size: 39px;
+}
+.us{
+	color: wheat;
+	font-weight: lighter;
+}
+hr{color:white;height:0.2px;font-weight: lighter;}
+.fa-facebook-square{color:white;}
+.fa-twitter-square{color:white;}
+.fa-youtube-play{color:white;}
+.fa-linkedin-square{color:white;}
